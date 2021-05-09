@@ -1,5 +1,5 @@
 ### m3uc - by skittOS 2021
-v.1.0.0
+v.1.0.0 - Winx64
 
 [USING]
 1. Run the m3uc.exe file
@@ -15,7 +15,7 @@ The purpose of the program is mainly to easily convert m3u playlists from audio 
 The links contained in the m3u/txt file are downloaded as mp3 and (optionally)
 chained together directly to get the full audio stream as one mp3.
 
-> _m3u = a text-file that conatins a list of links. often used to manage online streaming.
+> _m3u = a text-file that conatins a list of links. often used to manage online streaming._
 
 [TROUBLESHOOTING]
 - If you want to listen to the exported audio file, make sure that the m3uc program is closed.
