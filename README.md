@@ -1,5 +1,7 @@
 ### m3uc - by skittOS 2021
-v.1.0.0 - Winx64
+v.1.0.1 - Winx64
+
+Wiki: https://github.com/skittOS/m3uc/wiki
 
 [USING]
 1. Run the m3uc.exe file
